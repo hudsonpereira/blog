@@ -17,7 +17,7 @@ title: Hudson Pereira
 email: hudson.webdeveloper@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Neste blog estou documentando alguns learning paths que estou usando para masterizar desenvolvimento frontend.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hudsonbyte
 github_username:  hudsonpereira
